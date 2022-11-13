@@ -1,0 +1,8 @@
+~$SheetFunctions.xlsx
+
+/RUST/target
+/RUST/Cargo.lock
+
+/PYTHON/.venv
+
+/JS/node_modules
